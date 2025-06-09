@@ -13,3 +13,11 @@ UKRIT is a tool designed to create reference images for various keyboard layouts
 
 ## Problem Statement
 UKRIT aims to solve the problem of creating accurate and visually appealing keyboard layout images. Many existing tools either lack customization options or do not support all keyboard layouts, leading to inconsistencies and inaccuracies in documentation and educational materials. Furthermore, tools that allow for exporting do not provide a readable resolution, making it difficult to use these images in various contexts.
+
+> Image showing the problem with current tools
+
+<!--
+This section of the README includes an image labeled "Problem Illustration" sourced from the file "Problem.jpg". 
+It visually represents the issue or concept described in the documentation.
+-->
+![Problem Illustration](Problem.jpg)
