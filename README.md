@@ -18,4 +18,5 @@ UKRIT aims to solve the problem of creating accurate and visually appealing keyb
 
 ![Problem Illustration](Problem.jpg)
 
-As shown in the image, current tools often produce images that while being good for the majority of layouts, fail to accurately represent certain layouts with smaller keys or unique arrangements such as the niqqud in Hebrew keyboards. UKRIT addresses this by allowing users to create custom layouts with precise key dimensions and arrangements.
+As shown in the image, current tools often produce images that while being good for the majority of layouts, fail to accurately represent certain layouts with smaller keys or unique arrangements such as the niqqud in Hebrew keyboards. UKRIT addresses this by allowing users to create custom layouts with precise key dimensions and arrangements. Not only that but you have to manually insert the key labels, which is time-consuming and error-prone. UKRIT automates this process, ensuring that all keys are labeled correctly and consistently.
+
