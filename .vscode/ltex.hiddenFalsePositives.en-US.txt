@@ -1,0 +1,1 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QUKRIT is a tool designed to create reference images for various keyboard layouts.\\E$"}
